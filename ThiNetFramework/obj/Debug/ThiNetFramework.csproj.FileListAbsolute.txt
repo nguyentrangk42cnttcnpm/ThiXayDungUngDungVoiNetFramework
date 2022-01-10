@@ -1,0 +1,17 @@
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\obj\Debug\ThiNetFramework.csproj.AssemblyReference.cache
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\obj\Debug\ThiNetFramework.frmSanPham.resources
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\obj\Debug\ThiNetFramework.csproj.GenerateResource.cache
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\obj\Debug\ThiNetFramework.csproj.CoreCompileInputs.cache
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\bin\Debug\ThiNetFramework.exe.config
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\bin\Debug\ThiNetFramework.exe
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\bin\Debug\ThiNetFramework.pdb
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\bin\Debug\EntityFramework.dll
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\bin\Debug\EntityFramework.SqlServer.dll
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\bin\Debug\EntityFramework.xml
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\bin\Debug\EntityFramework.SqlServer.xml
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\obj\Debug\ThiNetFramework.exe
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\obj\Debug\ThiNetFramework.pdb
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\obj\Debug\ThiNetFramework.Properties.Resources.resources
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\obj\Debug\ThiNetFramework.frmSanPhamCT.resources
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\obj\Debug\ThiNetFramework.frmdsloaisp.resources
+F:\users\administrator\source\repos\ThiNetFramework\ThiNetFramework\obj\Debug\ThiNetFramework.ThemLoaisp.resources
