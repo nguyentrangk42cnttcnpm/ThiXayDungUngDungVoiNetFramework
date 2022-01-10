@@ -1,5 +1,5 @@
-# [2021-2022.1] - Xây dựng ứng dụng với .NET Framework - Nhóm 1
+[2021-2022.1] - Xây dựng ứng dụng với .NET Framework - Nhóm 1
 
-# Nguyễn Thị Huyền Trang
+Nguyễn Thị Huyền Trang
 
-# 18T1021326
+18T1021326
